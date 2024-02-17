@@ -1,0 +1,12 @@
+img {
+    float: left;margin-right: 1em;
+}
+
+.header {
+    display: inline-block;
+    text-align: center;
+}
+
+.footer{
+    text-align: right;
+}
